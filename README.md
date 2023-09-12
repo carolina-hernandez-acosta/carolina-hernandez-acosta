@@ -2,7 +2,7 @@
  I am new to Java, that is what I will be learning this year. 
  I do have some basic knowledge in Python and R-Programming.
 
- My favorite subject in school are chemistry 🧪 and mathematics ➗!
+ My favorite subjects in school are chemistry 🧪 and mathematics ➗!
 
  🧠 Some of my interests include nuerology and psychology; I hope to find ways to incorporate these interests into future coding projects!
 <!--
